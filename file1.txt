@@ -2,3 +2,7 @@
 
 Contenuto iniziale del primo documento
 Contenuto aggiuntivo del primo documento
+
+##Terzo documento
+
+file3
